@@ -1,8 +1,8 @@
-              ** AUTHENTICATION USING PASSPORT **
+              #AUTHENTICATION USING PASSPORT
 
 We are making a simple authentication interface for any one to use in this  project.
 
-                      INTRODUCTION
+                      ##INTRODUCTION
 <p>                     
 We are making a simple project for integrating the authentication in any project.
 In this project we use Non relation database for saving the credential.
